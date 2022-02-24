@@ -2,7 +2,7 @@
   "name": "vscode-pls-ude-debug-adapter",
   "displayName": "VSCode PLS UDA debug adapter",
   "description": "Connect and debug with yout PLS UDA",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "",
   "private": true,
   "license": "MIT",
